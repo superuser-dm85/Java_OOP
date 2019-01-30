@@ -2,7 +2,7 @@ package dz8;
 
 import java.io.*;
 
-public class Group implements Serializable {
+public class Group  implements Serializable {
 	private Human[] group;
 	private static final long serialVersionUID = 1L;
 
